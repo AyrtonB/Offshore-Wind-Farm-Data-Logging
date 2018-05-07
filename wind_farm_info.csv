@@ -1,0 +1,33 @@
+﻿ID,Name,Turbines,Operator,Capacity (MW)
+BOWLW-1,Barrow,30,DONG Energy,90
+BURBW-1,Burbo Bank 1,25,DONG Energy,90
+GRGBW,Greater Gabbard,140,Greater Gabbard Offshore Winds Limited,504
+GNFSW-1,Gunfleet Sands 1,30,Gunfleet Sands Limited,108
+GNFSW-2,Gunfleet Sands 2,18,Gunfleet Sands II Limited,65
+GYMRW,Gwynt y Mor,160,RWE Innogy,576
+INNDW-1,Inner Dowsing,27,Inner Dowsing Wind Farm Limited,97
+KENT-1,Kentish Flats 1,30,Vattenfall UK,90
+LNCSW,Lincs,75,Lincs Wind Farm Limited,270
+LARYO,London Array,175,London Array Limited,630
+LYNNW-1,Lynn,27,Lynn Wind Farm Limited,97
+NHOYW-1,North Hoyle,30,RWE Innogy,60
+OMNDO-1,Ormonde,30,Vattenfall UK,150
+RHYFW-1,Rhyl Flats,25,RWE Innogy,90
+RREW-1,Robin Rigg East,30,E.ON Climate & Renewables,90
+RRWW-1,Robin Rigg West,30,E.ON Climate & Renewables,90
+SCRO-1,Scroby Sands,30,E.ON Climate & Renewables,60
+SHRSO,Sheringham Shoal,88,Statkraft,317
+TEES-1,Teesside,27,EDF Energy,62
+THNTW,Thanet,100,Vattenfall UK,300
+WLNYW-1,Walney 1,51,Walney (UK) Offshore Windfarms Limited,184
+WLNYO-2,Walney 2,51,Walney (UK) Offshore Windfarms Limited,184
+HMGTO,Humber Gateway,73,E.ON Climate & Renewables,219
+WDNSW,West of Duddon Sands,108,DONG Energy & Scottish Power Renewables,389
+KENT-2,Kentish Flats 2,15,Vattenfall UK,49.5
+WTMSO-1,Westermost Rough,35,Westermost Rough Limited,210
+RMPNO,Rampion,116,Rampion Offshore Wind Limited,400.2
+GAOFO,Galloper,56,Galloper Wind Farm Limited,352
+RCBKO,Race Bank,91,Race Bank Wind Farm Limited,574
+BRBEO-1,Burbo Bank Extension,32,DONG Energy,258
+DDGNO,Dudgeon,67,Statoil,402
+WLNYO-3,Walney 3,None,Dong Energy Walney Extension (UK) Ltd,330
